@@ -4,6 +4,7 @@
 #                         Data filtering
 #           Snæbjörn Helgi Arnarsson Jack (nem.sha1@lbhi.is)
 #                supervisor Isabel C Barrio (isabel@lbhi.is)
+#                 & Ingibjörg Svala Jónsdóttir (isj@hi.is)
 #
 #                          21-April-2025
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
